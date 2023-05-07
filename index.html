@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home/COMFY</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="notify"></div>
+    <div class="modal">
+        <div class="modal__overlay"></div>
+        <div class="modal__window">
+            <button class="modal__close">X</button>
+            <h2 class="modal__title">Your Bag</h2>
+            <div class="modal__content"></div>
+            <img src="img/done-icon (1).svg" alt="" class="done">
+            <h3 class="modal__total">Total: $<span class="modal__total_qty"></span></h3>
+            <button class="modal__checkout">CHECKOUT</button>
+        </div>
+    </div>
+    <header class="header-main">
+        <div class="container">
+            <div class="hat">
+                <nav class="nav-main">
+                    <ul class="nav-main__list">
+                        <li class="nav-main__item">
+                            <a href="index.html" class="nav-main__link">Home</a>
+                        </li>
+                        <li class="nav-main__item">
+                            <a href="products.html" class="nav-main__link">Products</a>
+                        </li>
+                        <li class="nav-main__item">
+                            <a href="about.html" class="nav-main__link">About</a>
+                        </li>
+                    </ul>
+                </nav>
+                <a href="home.html" class="logo-main">comfy</a>
+                <button type="button" class="cart-main" id="cart"><span class="cart-num"></span></button>
+            </div>
+            <div class="offer">
+                <h1 class="offer__title">
+                    Rest, Relax, Unwind
+                </h1>
+                <p class="offer__desc">
+                    Embrace your choice - we do
+                </p>
+                <a href="products.html" class="offer__btn">SHOW NOW</a>
+            </div>
+        </div>
+    </header>
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title"><span>/</span>Features</h2>
+            <div class="content">
+            </div>
+            <a href="products.html" class="shop-btn">ALL PRODUCTS</a>
+        </div>
+    </section>
+    <script src="js/index.js"></script>
+    <script type="module" src="js/home.js"></script>
+    <script src="js/cart.js"></script>
+</body>
+</html>

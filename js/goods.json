@@ -1,0 +1,86 @@
+[
+    {
+        "name" : "Martin" ,
+        "id" : 0 ,
+        "company" : "Ikea" ,
+        "price" : 9.99 ,
+        "img" : "img/image1.svg"
+    },
+    {
+        "name" : "Alba" ,
+        "id" : 1 ,
+        "company" : "Ikea" ,
+        "price" : 90.99 ,
+        "img" : "img/image2.svg"
+    },
+    {
+        "name" : "Toscana" ,
+        "id" : 2 ,
+        "company" : "Ikea" ,
+        "price" : 59 ,
+        "img" : "img/image3.svg"
+    },
+    {
+        "name" : "Leonardo" ,
+        "id" : 3 ,
+        "company" : "Ikea" ,
+        "price" : 29.99 ,
+        "img" : "img/image4.svg"
+    },
+    {
+        "name" : "Boorbon" ,
+        "id" : 4 ,
+        "company" : "Marcos" ,
+        "price" : 59.99 ,
+        "img" : "img/image5.svg"
+    },
+    {
+        "name" : "Emilio" ,
+        "id" : 5 ,
+        "company" : "Liddy" ,
+        "price" : 69 ,
+        "img" : "img/image6.svg"
+    },
+    {
+        "name" : "Nensi" ,
+        "id" : 6 ,
+        "company" : "Marcos" ,
+        "price" : 99 ,
+        "img" : "img/image7.svg"
+    },
+    {
+        "name" : "Tatami" ,
+        "id" : 7 ,
+        "company" : "Marcos" ,
+        "price" : 19 ,
+        "img" : "img/image8.svg"
+    },
+    {
+        "name" : "Regina" ,
+        "id" : 8 ,
+        "company" : "Caressa" ,
+        "price" : 45 ,
+        "img" : "img/image9.svg"
+    },
+    {
+        "name" : "Versal" ,
+        "id" : 9 ,
+        "company" : "Caressa" ,
+        "price" : 87 ,
+        "img" : "img/image10.svg"
+    },
+    {
+        "name" : "Exclusive" ,
+        "id" : 10 ,
+        "company" : "Caressa" ,
+        "price" : 67 ,
+        "img" : "img/image11.svg"
+    },
+    {
+        "name" : "Floret" ,
+        "id" : 11 ,
+        "company" : "Liddy" ,
+        "price" : 23.90 ,
+        "img" : "img/image12.svg"
+    }
+]
